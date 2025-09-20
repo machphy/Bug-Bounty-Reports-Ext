@@ -1,0 +1,352 @@
+Title,Severity,URL
+CSRF vulnerability allows disabling Gmail contacts link for user referrals,Medium,https://hackerone.com/reports/1668489
+CSRF at Network feature,Medium,https://hackerone.com/reports/3230359
+There is a POST based CSRF issue over IBM endpoint leading to modification of contact information. ,Medium,https://hackerone.com/reports/2919623
+CSRF leads to Account takeover,High,https://hackerone.com/reports/2699029
+CSRF leads to Account takeover,High,https://hackerone.com/reports/2712857
+CSRF Attack on changing security questions leads to full Account TakeOver,High,https://hackerone.com/reports/2652603
+CSRF Attack leads to delete album at,Medium,https://hackerone.com/reports/2652190
+CSRF to XSS,Medium,https://hackerone.com/reports/2736979
+CSRF Attack leads to delete album at ████████,Medium,https://hackerone.com/reports/2697588
+csrftoken not unique to session or specific user and csrfmiddlewaretoken  can be altered,Low,https://hackerone.com/reports/2513333
+CSRF in Delete Pet Function,Medium,https://hackerone.com/reports/2445106
+CSRF in ticket function,Medium,https://hackerone.com/reports/1890310
+Client-Side Path Traversal on LINE Developers Console,Medium,https://hackerone.com/reports/2473862
+CSRF resulting in adding pet at ███████,Low,https://hackerone.com/reports/2313478
+monitoring.prow-canary.k8s.io is vulnerable to CVE-2022-21703 (Grafana 0-day),Low,https://hackerone.com/reports/1466765
+Arbitrary comment content change with GET CSRF. ,Low,https://hackerone.com/reports/1096115
+Arbitrary forum topic close with GET CSRF.,Low,https://hackerone.com/reports/1096128
+Comment/channel unsubscribe GET CSRF,Low,https://hackerone.com/reports/1096141
+CSRF to delete a pet on ██████,Low,https://hackerone.com/reports/2261600
+No CSRF protection when adding an item to cart,Low,https://hackerone.com/reports/2190062
+Argo CD CSRF leads to Kubernetes cluster compromise,High,https://hackerone.com/reports/2326194
+Revocation API Token by Bypassing The XSRF Token,Critical,https://hackerone.com/reports/2312217
+CVE-2023-49920: Apache Airflow: Missing CSRF protection on DAG/trigger,Medium,https://hackerone.com/reports/2294709
+CSRF that makes any linkedin user follow attacker controlled accounts by simply clicking https://www.linkedin.com/comm/mynetwork/discovery-see-all/*,Medium,https://hackerone.com/reports/1964211
+CSRF that makes any user send invitations to the attacker by simply clicking on a link.,Medium,https://hackerone.com/reports/1961163
+CSRF to Information disclosure on password reset,Low,https://hackerone.com/reports/2106662
+Cross-Site Request Forgery ,High,https://hackerone.com/reports/2041007
+CSRF to XSS in /htdocs/modules/system/admin.php,Medium,https://hackerone.com/reports/1096123
+CSRF to delete a pet,Medium,https://hackerone.com/reports/2029753
+CSRF in seller-us.tiktok.com/profile/account-setting/delegation-login ,Medium,https://hackerone.com/reports/2002352
+CSRF protection bypass on TikTok Webcast Endpoints,Medium,https://hackerone.com/reports/1543234
+Improper CSRF token validation allows attackers to access victim's accounts linked to Hackerone,High,https://hackerone.com/reports/1727221
+CSRF with logout action,,https://hackerone.com/reports/1971589
+Account takeover due to insufficient URL validation on RelayState parameter,Medium,https://hackerone.com/reports/1923672
+CSRF protection on OIDC login is broken,Medium,https://hackerone.com/reports/1878381
+"[uchat.uberinternals.com] Mattermost doesn't check Origin in Websockets, which leads to the Critical Inforamation Leakage.",Critical,https://hackerone.com/reports/201326
+CSRF in Importing CSV files [app.taxjar.com],Low,https://hackerone.com/reports/1637761
+CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows when clicking malicious link ,Medium,https://hackerone.com/reports/1741430
+CSRF to ATO at https://█████/user/account [HtUS],High,https://hackerone.com/reports/1624421
+"CSRF in AppSearch allows creation of ""curations""",Medium,https://hackerone.com/reports/1477050
+Cross-Site Request Forgery (CSRF) to xss,Medium,https://hackerone.com/reports/1183241
+[CSRF] No Csrf protection against sending invitation to join the team.,Medium,https://hackerone.com/reports/728199
+Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm,Medium,https://hackerone.com/reports/1626356
+CSRF in Changing User Verification Email,Low,https://hackerone.com/reports/1531235
+CSRF Account Takeover,High,https://hackerone.com/reports/1253462
+CSRF Bypassed on Logout Endpoint,Low,https://hackerone.com/reports/1091403
+CSRF (protection bypassed) to force a below 18 user into viewing an nsfw subreddit !,Medium,https://hackerone.com/reports/1480569
+CSRF token validation system is disabled on Stripe Dashboard,Medium,https://hackerone.com/reports/1493437
+URL Scheme misconfiguration on TikTok for IOS,Low,https://hackerone.com/reports/1437294
+Possibility to force an admin to install recommended applications,Low,https://hackerone.com/reports/1403614
+[https://shipit-sox-staging.shopifycloud.com] Presence of multiple vulnerabilities present in Ruby On Rails,None,https://hackerone.com/reports/1400309
+CSRF protection bypass in GitHub Enterprise management console,High,https://hackerone.com/reports/1497169
+CSRF token validation system is disabled on Stripe Dashboard,Medium,https://hackerone.com/reports/1483327
+CSRF - Modify User Settings with one click - Account TakeOver,Medium,https://hackerone.com/reports/799895
+CSRF - Delete Account (Urgent),Medium,https://hackerone.com/reports/799855
+0-day Cross Origin Request Forgery vulnerability in Grafana 8.x .,High,https://hackerone.com/reports/1458236
+Widespread CSRF on authenticated POST endpoints,High,https://hackerone.com/reports/1309435
+CSRF to change password,Critical,https://hackerone.com/reports/204703
+[h1-2102] Wholesale - CSRF to Generate Invitation Token for a Customer and Move Customer to Invited Status,Low,https://hackerone.com/reports/1091209
+Drive-by arbitrary file deletion in the GDK via letter_opener_web gem,Medium,https://hackerone.com/reports/1353103
+CSRF в виджетах ,None,https://hackerone.com/reports/1091296
+CSRF на загрузку аудиозаписей,Medium,https://hackerone.com/reports/329345
+CSRF в m.vk.com,Medium,https://hackerone.com/reports/300999
+CSRF in Account Deletion feature (https://www.flickr.com/account/delete),High,https://hackerone.com/reports/615448
+CSRF on /api/graphql allows executing mutations through GET requests,High,https://hackerone.com/reports/1122408
+CSRF when unlocking lenses leads to lenses being forcefully installed without user interaction,Low,https://hackerone.com/reports/1085336
+Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer,Medium,https://hackerone.com/reports/1208453
+Slack integration setup lacks CSRF protection,High,https://hackerone.com/reports/170552
+TikTok Session Donation CSRF via QR code login,Low,https://hackerone.com/reports/1133661
+CSRF in changing password after using reset password link,Low,https://hackerone.com/reports/1086752
+CSRF on TikTok Ads Portal,Medium,https://hackerone.com/reports/1087436
+CSRF на установку своей почты к аккаунту.,Critical,https://hackerone.com/reports/301586
+Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome,High,https://hackerone.com/reports/1113559
+CSRF allows to test email forwarding,Low,https://hackerone.com/reports/1131473
+CSRF in  https://███,Medium,https://hackerone.com/reports/1090838
+SocialClub Account Take Over Through Import Friends feature,High,https://hackerone.com/reports/901728
+Chained vulnerabilities create DOS attack against users on desafio5estrelas.com,Low,https://hackerone.com/reports/624645
+CSRF to Cross-site Scripting (XSS),Medium,https://hackerone.com/reports/1118521
+CSRF to Cross-site Scripting (XSS),Medium,https://hackerone.com/reports/1118501
+Lack of CSRF protection on uberps.com makes every form vulnerable to CSRF,Medium,https://hackerone.com/reports/343120
+Outdated Wordpress installation and plugins at www.uberxgermany.com create CSRF and XSS vulnerabilities,Medium,https://hackerone.com/reports/323899
+[socket.io] Cross-Site Websocket Hijacking ,High,https://hackerone.com/reports/931197
+███████mill is vulnerable to cross site request forgery that leads to full account take over.,High,https://hackerone.com/reports/1066083
+One Click Account takeover using Ouath CSRF bypass by adding Null byte %00 in state parameter on  www.streamlabs.com,Medium,https://hackerone.com/reports/1046630
+[tumblr.com] CSRF in /svc/user/filtered_content,Low,https://hackerone.com/reports/1010806
+CSRF in changing users donation_settings [https://streamlabs.com/api/v6/viewer-portal/viewer-settings/donation_settings],Medium,https://hackerone.com/reports/1049360
+CSRF for deleting videos,Medium,https://hackerone.com/reports/998979
+User In The Same Center Can Create CSRF To Change The Information About Business,Low,https://hackerone.com/reports/1006306
+[CSRF] TikTok Careers Portal Account Takeover,High,https://hackerone.com/reports/1010522
+CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture.action,Medium,https://hackerone.com/reports/868572
+CSRF on https://apps.topcoder.com/wiki/pages/doattachfile.action,Medium,https://hackerone.com/reports/867473
+Arbitrary change of blog's background image via CSRF,Medium,https://hackerone.com/reports/881855
+Site wide CSRF affecting both job seeker and Employer account on glassdoor.com,Critical,https://hackerone.com/reports/790061
+CSRF to Stored HTML injection at https://www.█████,Medium,https://hackerone.com/reports/1014593
+[Admin Panel] CSRF to resume/pause runner,Low,https://hackerone.com/reports/415238
+CSRF to account takeover in https://█████/,Critical,https://hackerone.com/reports/1018270
+Отправка произвольных запросов к API с правами любого установленного у пользователя iframe/miniapp,Medium,https://hackerone.com/reports/987132
+CSRF To Add New App In Developer Account And Bypassing Json Format,Medium,https://hackerone.com/reports/997615
+CSRF on launchpad.37signals.com OAuth2 authorization endpoint,High,https://hackerone.com/reports/850022
+Site-wide CSRF on Safari due to CORS misconfiguration (not localhost),Medium,https://hackerone.com/reports/975983
+authenticity token not verfied leads to change business name,Medium,https://hackerone.com/reports/994504
+CSRF to account takeover in https://███████.mil/,Critical,https://hackerone.com/reports/987751
+Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile],Low,https://hackerone.com/reports/1003468
+No CSRF Protection in Resend Confirmation Email feature leads to Sending Unwanted Email in Victim's Inbox without knowing Victim's email address,Medium,https://hackerone.com/reports/753386
+The authenticity_token can be reversed and used to forge valid per_form_csrf_tokens for arbitrary routes,Medium,https://hackerone.com/reports/732415
+[express-cart] Wide CSRF in application,Medium,https://hackerone.com/reports/800356
+CSRF Account Deletion on ███ Website,Medium,https://hackerone.com/reports/840285
+CSRF Vulnerability on post creation page /community/create-post.json,Low,https://hackerone.com/reports/487378
+csrf in https://www.rockstargames.com/reddeadonline/feedback/submit.json,Low,https://hackerone.com/reports/796295
+CSRF at https://chatstory.pixiv.net/imported,Medium,https://hackerone.com/reports/534908
+Referer Leakge in language changer may lead to FB token theft.,Medium,https://hackerone.com/reports/809691
+CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Account takerover of Socialclub Accounts.,High,https://hackerone.com/reports/653254
+Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.,Medium,https://hackerone.com/reports/787160
+Image Injection vulnerability in www.rockstargames.com/IV/screens/1280x720Image.html,Medium,https://hackerone.com/reports/784101
+Image Injection/XSS vulnerability affecting https://www.rockstargames.com/newswire/article,Medium,https://hackerone.com/reports/790465
+Login CSRF vulnerability on hackerone.com,Low,https://hackerone.com/reports/834366
+CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/,Medium,https://hackerone.com/reports/474833
+CSRF - Close Account,Medium,https://hackerone.com/reports/856518
+Account takeover through CSRF in http://███████/██████████/default.asp,High,https://hackerone.com/reports/670924
+CSRF - Modify Company Info,Medium,https://hackerone.com/reports/856981
+Firmware download/install vulnerable to CSRF,High,https://hackerone.com/reports/323852
+CSRF header is sent to external websites when using data-remote forms,Low,https://hackerone.com/reports/189878
+CSRF in Profile Fields allows deleting any field in BuddyPress,Medium,https://hackerone.com/reports/836187
+Отсутствие CSRF ключа на функции Закрытый Профиль.,Critical,https://hackerone.com/reports/448928
+CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action,Medium,https://hackerone.com/reports/866844
+CSRF on https://apps.topcoder.com/wiki/users/editmyprofile.action,Medium,https://hackerone.com/reports/868561
+CSRF on https://apps.topcoder.com/wiki/users general and email preferences,Medium,https://hackerone.com/reports/868583
+CSRF on connecting Paypal as Payment Provider,Medium,https://hackerone.com/reports/807924
+Periscope iOS app CSRF in follow action due to deeplink,Low,https://hackerone.com/reports/805073
+[www.drive2.ru] CSRF through FCTX token bypass,Medium,https://hackerone.com/reports/835142
+H1514 CSRF in Domain transfer allows adding your domain to other user's account,High,https://hackerone.com/reports/416978
+XSRF Token is Not being validated when sending emails test request which lead to CSRF attack using the flash file + 307 redirect technique,Medium,https://hackerone.com/reports/799867
+Periscope android app deeplink leads to CSRF in follow action,Low,https://hackerone.com/reports/583987
+Cross Site Request Forgery in auth in https://auth.ratelimited.me/,Medium,https://hackerone.com/reports/473798
+csrf bypass using flash file + 307 redirect method at plugins endpoint,Medium,https://hackerone.com/reports/766205
+CSRF - Modify Project Settings,Critical,https://hackerone.com/reports/766533
+Norway - store.starbucks.no - CSRF on email change,High,https://hackerone.com/reports/718852
+CSRF vulnerability that allows an attacker to modify encryption settings,Low,https://hackerone.com/reports/630146
+CSRF in generating developer api_key,Medium,https://hackerone.com/reports/593893
+login csrf in analytics.mopub.com,Medium,https://hackerone.com/reports/577920
+Sensitive information/action is stored/done is done using a GET request,,https://hackerone.com/reports/163820
+Cross-Site Request Forgery (CSRF) vulnerability on API endpoint allows account takeovers,High,https://hackerone.com/reports/419891
+Take over of accounts created using Google or Facebook,Critical,https://hackerone.com/reports/442901
+Account takeover by changing email,Critical,https://hackerone.com/reports/538800
+CSRF to HTML Injection in Comments,High,https://hackerone.com/reports/428019
+UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise,High,https://hackerone.com/reports/329749
+CSRF in Inviting users,High,https://hackerone.com/reports/323975
+CSRF and probable account takeover on https://www.niche.co,Medium,https://hackerone.com/reports/493535
+CSRF Add user templates,Medium,https://hackerone.com/reports/301919
+CSRF Trial 14 days express subscription,,https://hackerone.com/reports/334139
+Account Takeover using Linked Accounts due to lack of CSRF protection,High,https://hackerone.com/reports/463330
+Facebook OAuth Code Theft through referer leakage on support.rockstargames.com,Medium,https://hackerone.com/reports/482743
+XSSI on refer.xoom.com allows stealing email addresses and posting to Twitter on behalf of victim,Medium,https://hackerone.com/reports/450796
+Проверяем принадлеженость email и номера телефона к определенному юзеру / CSRF на смену номера для некоторых пользователей,High,https://hackerone.com/reports/388236
+"Account takeover due to CSRF in ""Account details"" option on █████████",Medium,https://hackerone.com/reports/410099
+CSRF | Ban or unban users in broadcast's chat,Low,https://hackerone.com/reports/381237
+Site-wide CSRF on eats.uber.com,High,https://hackerone.com/reports/161529
+Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account,High,https://hackerone.com/reports/423022
+Imperfect CSRF To Overwrite Server Config at /go/admin/restful/configuration/file/POST/xml,Medium,https://hackerone.com/reports/240048
+Found CSRF Vulnerability in https://support.rockstargames.com/,Low,https://hackerone.com/reports/423602
+vulnerable to Cross-site Request Forgery | Jira,Low,https://hackerone.com/reports/392761
+CSRF on change video thumbnail at https://chaturbate.com,Low,https://hackerone.com/reports/416682
+"CSRF in ""send them an email and browser notification"" feature",Low,https://hackerone.com/reports/396802
+CSRF in REPORT EMOTICON feature,Low,https://hackerone.com/reports/395731
+CSRF in cancel group and private show requests,Medium,https://hackerone.com/reports/396338
+"CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)",Low,https://hackerone.com/reports/260697
+"Уязвимость дает возможность видеть записи , которые предлагаются пабликам + еще",Low,https://hackerone.com/reports/106179
+Уязвимость дает возможность смотреть кто лайкал приватным фото или видео ,Low,https://hackerone.com/reports/92113
+Application Vulnerable to CSRF - Remove Invited user,Medium,https://hackerone.com/reports/282490
+Wordpress.com REST API oauth bypass via Cross Site Flashing,Medium,https://hackerone.com/reports/176308
+"CSRF на ""ловлю гостей"" и раскрытие аудиотрансляции в частной группе",Medium,https://hackerone.com/reports/301631
+SocialClub's Facebook OAuth Theft through Warehouse XSS.,Medium,https://hackerone.com/reports/316948
+CSRF logs the victim into attacker's account,Medium,https://hackerone.com/reports/339352
+CSRF log victim into the attacker account,High,https://hackerone.com/reports/293016
+session_id is not being validated at email invitation endpoint,,https://hackerone.com/reports/292636
+CSRF in Raffles Ticket Purchasing,High,https://hackerone.com/reports/272588
+CSRF отредактировать карточки в посте у группы,None,https://hackerone.com/reports/307382
+"remote access to localhost daemon, can issue jsonrpc commands",Low,https://hackerone.com/reports/303390
+Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and basic-auth,High,https://hackerone.com/reports/187520
+CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT USER PERMISSION),,https://hackerone.com/reports/115158
+[CRITICAL] Full account takeover using CSRF,High,https://hackerone.com/reports/235642
+CSRF to change Account Security Keys on secure.login.gov,Medium,https://hackerone.com/reports/263498
+OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing,,https://hackerone.com/reports/136582
+CSRF token does not valided during blog comment,,https://hackerone.com/reports/273998
+Paragonie Airship Admin CSRF on Extensions Pages,Medium,https://hackerone.com/reports/243094
+CSRF-Token leak by request forgery,Medium,https://hackerone.com/reports/221432
+CSRF - Adding unlimited number of saved items via GET request,Medium,https://hackerone.com/reports/205953
+"Cross-Site Request Forgery on the Federalist API (all endpoints), using Flash file on the attacker's host",Medium,https://hackerone.com/reports/263662
+CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card,Medium,https://hackerone.com/reports/233099
+Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml,High,https://hackerone.com/reports/244504
+Создание ссылки от имени чужой страницы vk.cc,Medium,https://hackerone.com/reports/212046
+"CSRF in the ""Add restaurant picture"" function",,https://hackerone.com/reports/169699
+CSRF Проверить является ли пользователь админом группы.,,https://hackerone.com/reports/250386
+Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg],Medium,https://hackerone.com/reports/251918
+HackerOne reports escalation to JIRA is CSRF vulnerable,Medium,https://hackerone.com/reports/226418
+XSSI (Cross Site Script Inclusion),,https://hackerone.com/reports/118631
+Posting to Twitter CSRF on php/post_twitter_authenticate.php,Low,https://hackerone.com/reports/249234
+Csrf in watch-unwatch projects,Low,https://hackerone.com/reports/229405
+CSRF Vulnerability allows attackers to steal SocialClub private token.,High,https://hackerone.com/reports/253128
+CSRF on Periscope Web OAuth authorization endpoint ,,https://hackerone.com/reports/215381
+CSRF на сброс ключа трансляции.,Low,https://hackerone.com/reports/230688
+JSON CSRF on POST Heartbeats API,Medium,https://hackerone.com/reports/245346
+CSRF to add admin [wordpress],,https://hackerone.com/reports/149589
+CSRF To Like/Unlike Photos,Medium,https://hackerone.com/reports/230837
+Cross-site request forgery (CSRF) vulnerability on a DoD website,Medium,https://hackerone.com/reports/191831
+Prevent content spoofing on /~username/emails/verify.html,Medium,https://hackerone.com/reports/117187
+CSRF - Changing the full name / adding a secondary email identity of an account via a GET request,Medium,https://hackerone.com/reports/223367
+CSRF: add item to victim's cart automatically (starbucks.com - updatecart),Medium,https://hackerone.com/reports/177472
+CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org,Medium,https://hackerone.com/reports/230863
+Login CSRF : Login Authentication Flaw,Medium,https://hackerone.com/reports/229528
+CSRF,High,https://hackerone.com/reports/226612
+"CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa",,https://hackerone.com/reports/90165
+CSRF @ configuration ,None,https://hackerone.com/reports/208734
+<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information ->,Critical,https://hackerone.com/reports/204292
+Information leakage via CSV when content is valid JavaScript,Low,https://hackerone.com/reports/207266
+CSRF : Reset API ,Low,https://hackerone.com/reports/223333
+CSRF : Lock and Unlock Translation,Medium,https://hackerone.com/reports/223345
+Logout CSRF,Low,https://hackerone.com/reports/223329
+Activation tokens are not expiring,Medium,https://hackerone.com/reports/223339
+Account Takeover using Third party Auth CSRF,High,https://hackerone.com/reports/225653
+Persistent CSRF in /GiftCert-AddToBasket prevents purchases on eCommerce sites,High,https://hackerone.com/reports/206319
+CSRF vulnerability in saving payment card on store.starbucks.com (COBilling -AddCreditCard),Low,https://hackerone.com/reports/177635
+Clickjacking Vulnerability found on Yelp,Low,https://hackerone.com/reports/214087
+Information disclosure - emails disclosed in response > staging.seatme.us,,https://hackerone.com/reports/49170
+CSRF to Connect third party Account,Medium,https://hackerone.com/reports/225100
+CSRF Token Bypass in Account Deletion,Low,https://hackerone.com/reports/182487
+CSRF on cards API,,https://hackerone.com/reports/95555
+CSRF in all API endpoints when authenticated using HTTP Authentication,,https://hackerone.com/reports/195156
+"Avoid ""resend verification email"" confusion",Low,https://hackerone.com/reports/156542
+Cross-site request forgery vulnerability on a DoD website,Medium,https://hackerone.com/reports/191608
+CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php',Medium,https://hackerone.com/reports/152013
+CSRF on signup endpoint (auto-api.yelp.com),,https://hackerone.com/reports/178831
+CSRF exploit | Adding/Editing comment of wishlist items (teavana.com - Wishlist-Comments),Medium,https://hackerone.com/reports/177639
+Добавление в меню сообщества без ведома пользователя (нажатия пользователем),,https://hackerone.com/reports/106806
+Уязвимость Создание фотографий без ведома пользователей,,https://hackerone.com/reports/72775
+apps.shopify.com - CSRF token leakage through Google Analytics,,https://hackerone.com/reports/196458
+CSRF Attack on (m.badoo.com)deleting account and erasing imported contacts,Medium,https://hackerone.com/reports/192131
+URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io,,https://hackerone.com/reports/49663
+account.ubnt.com CSRF,,https://hackerone.com/reports/101909
+[kb.informatica.com] Unauthenticated emails and HTML injection in email messages,Medium,https://hackerone.com/reports/139402
+(BYPASS) Open redirect and XSS in supporthiring.shopify.com,,https://hackerone.com/reports/158434
+CSRF in github integration,Medium,https://hackerone.com/reports/174328
+[community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash,High,https://hackerone.com/reports/45050
+Possible CSRF during external programs,Low,https://hackerone.com/reports/174470
+Cross-Site Request Forgery (CSRF),,https://hackerone.com/reports/157993
+Twitter Disconnect CSRF,,https://hackerone.com/reports/114127
+Payment gateway status transferred to Shopify without authentication,,https://hackerone.com/reports/56628
+Changing paymentProfileUuid when booking a trip allows free rides,,https://hackerone.com/reports/162809
+CSRF To change Email Notification Settings ,,https://hackerone.com/reports/157956
+CSRF,,https://hackerone.com/reports/65167
+WooCommerce: Support Ticket indirect object reference,,https://hackerone.com/reports/91599
+CSRF  Add Album On  onpatient.com ,,https://hackerone.com/reports/99647
+Add tweet to collection CSRF ,,https://hackerone.com/reports/100820
+CSRF - Add optional two factor mobile number,,https://hackerone.com/reports/155774
+CSRF Full Account Takeover,,https://hackerone.com/reports/152052
+Security Issue : CSRF Token Design Flaw,,https://hackerone.com/reports/141065
+CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public,,https://hackerone.com/reports/136481
+[CSRF] Install premium themes ,,https://hackerone.com/reports/103351
+Possible CSRF during joining report as participant ,,https://hackerone.com/reports/148517
+Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1,,https://hackerone.com/reports/59660
+CSRF in login form would led to account takeover,,https://hackerone.com/reports/50703
+[CRITICAL]  CSRF  leading to account take over ,,https://hackerone.com/reports/141344
+Missing Server Side Validation of CSRF Middleware Token in Change Password Request,,https://hackerone.com/reports/120143
+SVG parser loads external resources on image upload,,https://hackerone.com/reports/97501
+Akismet Several CSRF vulnerabilities,,https://hackerone.com/reports/131108
+UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass,,https://hackerone.com/reports/52635
+[HIGH RISK] CSRF could potentially delete a zendesk subdomain.,,https://hackerone.com/reports/132049
+ProBlog 2.6.6 CSRF Exploit,,https://hackerone.com/reports/133847
+No Limitation on Following allows user to follow people automatically!,,https://hackerone.com/reports/43846
+CSRF on eng.uber.com may lead to server-side compromise,,https://hackerone.com/reports/125594
+Websites opened from reports can change url of report page,,https://hackerone.com/reports/124889
+[CRITICAL] Full account takeover using CSRF,,https://hackerone.com/reports/127703
+Отвязываем Twitter от любого профиля вк ! + несколько багов по дизайну,,https://hackerone.com/reports/71337
+[CRITICAL] CSRF leading to account take over,,https://hackerone.com/reports/102194
+Обход защиты от csrf-ок в m.ok.ru,,https://hackerone.com/reports/102376
+CSRF AT SELECTING ZAMATO HANDLE,,https://hackerone.com/reports/113857
+Account Takeover,,https://hackerone.com/reports/121827
+owncloud.com: Account Compromise Through CSRF,,https://hackerone.com/reports/84372
+apps.owncloud.com: CSRF change privacy settings,,https://hackerone.com/reports/85565
+CSRF in apps.owncloud.com,,https://hackerone.com/reports/84395
+Login CSRF using Google OAuth,,https://hackerone.com/reports/118737
+Internal GET SSRF via CSRF with Press This scan feature,,https://hackerone.com/reports/110801
+CSRF in Connecting Pinterest Account,,https://hackerone.com/reports/104931
+Twitter Disconnect CSRF,,https://hackerone.com/reports/111216
+Attach Pinterest account - no State/CSRF parameter in Oauth Call back,,https://hackerone.com/reports/111218
+CSRF possible when SOP Bypass/UXSS is available ,,https://hackerone.com/reports/103787
+URGENT : NICHE.co Account Take Over Vulnerability,,https://hackerone.com/reports/100849
+Csrf near report abuse meme ,,https://hackerone.com/reports/93154
+Missing of csrf protection ,,https://hackerone.com/reports/96470
+ [CSRF] Activate PayPal Express Checkout,,https://hackerone.com/reports/99321
+Limited CSRF bypass.,,https://hackerone.com/reports/99708
+rails-ujs will send CSRF tokens to other origins,,https://hackerone.com/reports/49935
+Multiple so called  'type juggling' attacks. Most notably PhabricatorUser::validateCSRFToken() is 'bypassable' in certain cases.,,https://hackerone.com/reports/86022
+owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF),,https://hackerone.com/reports/83239
+"No csrf protection on index.php/ccm/system/user/add_group, index.php/ccm/system/user/remove_group",,https://hackerone.com/reports/64184
+The product/status method CSRF,,https://hackerone.com/reports/74595
+authenticity_token is not random across page loads,,https://hackerone.com/reports/71006
+Logout any user of same team,,https://hackerone.com/reports/54610
+[mobile.twitter.com / twitter.com] CSRF protection bypass,,https://hackerone.com/reports/14883
+[URGENT ISSUE] Add or Delete the videos in watch later list of any user .,,https://hackerone.com/reports/52982
+Marking notifications as read CSRF bug,,https://hackerone.com/reports/5946
+iOS App can establish Facetime calls without user's permission,,https://hackerone.com/reports/28500
+"CSP Bypass: Click handler for links with data-method=""post"" can cause authenticity_token to be sent off domain",,https://hackerone.com/reports/47472
+Make API calls on behalf of another user (CSRF protection bypass),,https://hackerone.com/reports/44146
+Leaking CSRF token over HTTP resulting in CSRF protection bypass,,https://hackerone.com/reports/15412
+HTML form without CSRF protection at http://try.crashlytics.com/enterprise/,,https://hackerone.com/reports/25128
+Unvalidated Channel names causes IRC Command Injection,,https://hackerone.com/reports/29480
+Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login,,https://hackerone.com/reports/14494
+Resubmitted with POC #18685 Password reset CSRF,,https://hackerone.com/reports/18698
+CSRF   in crashlytics.com,,https://hackerone.com/reports/13856
+CSRF to Account Take Over Bug ,,https://hackerone.com/reports/7116
+Login CSRF,,https://hackerone.com/reports/21069
+CSRF vulnerability on https://sehacure.slack.com/account/settings,,https://hackerone.com/reports/2628
+"CSRF on ""Set as primary"" option on the accounts page",,https://hackerone.com/reports/10563
+logout csrf app.simplenote.com/logout,,https://hackerone.com/reports/13705
+NO CSRF token found on user details update,,https://hackerone.com/reports/15454
+Login CSRF using Twitter oauth,,https://hackerone.com/reports/13555
+ User Account Creation CSRF ,,https://hackerone.com/reports/7051
+Session Token is not Verified while changing Account Setting's which Result In account Takeover,,https://hackerone.com/reports/15476
+Log Out Cross site Request Forgery,,https://hackerone.com/reports/7516
+Login CSRF in Secret.ly,,https://hackerone.com/reports/7936
+"CSRF in function ""Set as primary"" on  accounts page",,https://hackerone.com/reports/10829
+Sign  up CSRF,,https://hackerone.com/reports/13583
+Projects Watch or Notifications Settings Change Via CSRF,,https://hackerone.com/reports/8273
+Login CSRF can be bypassed (Similar approach to previous one).,,https://hackerone.com/reports/7531
+Change user settings through CSRF,,https://hackerone.com/reports/7870
+Simplenote Silverlight cross-domain policy misconfiguration,,https://hackerone.com/reports/7571
+CSRF - Creating accounts,,https://hackerone.com/reports/7332
+HTML Form without CSRF protection,,https://hackerone.com/reports/6888
+Sign up CSRF,,https://hackerone.com/reports/6872
+Session Token is not Verified while changing Account Setting's which Result In account Takeover,,https://hackerone.com/reports/6907
+Login CSRF,,https://hackerone.com/reports/6871
+Private Project Access Request Invitation Sent Via CSRF ,,https://hackerone.com/reports/8226
+ Private Project Access Request Accpeted Via CSRF ,,https://hackerone.com/reports/8224
+Group Creation Via CSRF,,https://hackerone.com/reports/8216
+Group Deletion Via CSRF,,https://hackerone.com/reports/8218
+A password reset page does not properly validate the authenticity token at the server side.,,https://hackerone.com/reports/742
+CSRF in adding phrase.,,https://hackerone.com/reports/7962
+No Cross-Site Request Forgery protection at multiple locations,,https://hackerone.com/reports/7916
+Sign-up Form CSRF,,https://hackerone.com/reports/7865
+XSS & HTML injection,,https://hackerone.com/reports/7876
+Full account takeover using CSRF and password reset,,https://hackerone.com/reports/6910
+CSRF on add comment section,,https://hackerone.com/reports/2638
+flash content type sniff vulnerability in api.slack.com,,https://hackerone.com/reports/3455
+csrf,,https://hackerone.com/reports/2635
+State parameter missing on google OAuth,,https://hackerone.com/reports/2688
+Login CSRF using Twitter OAuth,,https://hackerone.com/reports/2228
+Log in a user to another account,,https://hackerone.com/reports/774
+Switching the user to the attacker's account,,https://hackerone.com/reports/727
+Information disclosure (reset password token) and changing the user's password,,https://hackerone.com/reports/738
+CSRF login,,https://hackerone.com/reports/547

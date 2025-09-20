@@ -1,0 +1,101 @@
+Title,Severity,URL
+Stored XSS in Email Notifcation ,Medium,https://hackerone.com/reports/1597271
+DOM XSS on www.omnipod.com/freedom/birthdate-confirmation and www.omnipod.com/pif/thanks-freedom,Medium,https://hackerone.com/reports/1073725
+"Stored XSS on TikTok's backend leads to the leakage of highly sensitive administrator data (Cookies, API Keys, Internal Paths, Emails, phone numbers).",Medium,https://hackerone.com/reports/3037447
+RXSS on stores on *█████████/visitorRegistration.pml via destination parameter,Medium,https://hackerone.com/reports/2189797
+Stored XSS in AREA tutorials,High,https://hackerone.com/reports/3008066
+RXSS on ██████ via customerId parameter,Medium,https://hackerone.com/reports/3126603
+XSS on Amazon Aquisition:  elemental,High,https://hackerone.com/reports/3205667
+"Reflected XSS in ""Cost Tracker"" Notes Field",Low,https://hackerone.com/reports/3185205
+"Reflected XSS in ""Manage Tags"" Notes Field",Low,https://hackerone.com/reports/3181803
+"Reflected XSS in ""Create Category"" Functionality of Post Creation Module",Low,https://hackerone.com/reports/3179138
+"Stored Cross-Site Scripting (XSS) in ""Add Contact"" Name Field – MainWP Plugin",,https://hackerone.com/reports/3176981
+"Reflected XSS in ""Client Notes"" Field",Low,https://hackerone.com/reports/3181802
+RXSS AT https://proze.yelp.com/tmsubscribe.net/vidsn.aspx,Medium,https://hackerone.com/reports/2947762
+[XSS] Reflected XSS via POST request in (███████),Medium,https://hackerone.com/reports/3146996
+Stored XSS in File Upload Leads to Privilege Escalation and Full Workspace Takeover,High,https://hackerone.com/reports/3115705
+Reflected XSS Vulnerability in SVG File at area-resources-stg.autodesk.com,Medium,https://hackerone.com/reports/3045455
+Reflected XSS In Marketing Reports Page On *.myshopify.com/admin,Medium,https://hackerone.com/reports/1754843
+Stored Cross-Site Scripting found in custom integration app on https://admin.b360.autodesk.com.,Medium,https://hackerone.com/reports/2971572
+Stored Cross-Site Scripting in mercadopago.com.ar,High,https://hackerone.com/reports/1955485
+CSRF to Reflected XSS at echo.urbandictionary.biz via spoofing content type,Medium,https://hackerone.com/reports/1237321
+Stored XSS via Post Tittle Enabling Non-Privileged User to Privileged User Exploitation on https://forums.autodesk.com/,High,https://hackerone.com/reports/2974307
+"XSS on using the legacy ""Graphie To Png"" API",Critical,https://hackerone.com/reports/2846011
+[CVE-2024-54133] Possible Content Security Policy bypass in Action Dispatch,Low,https://hackerone.com/reports/2905532
+ActionView sanitize helper bypass with 'style' and 'svg' tags,Medium,https://hackerone.com/reports/2931688
+ActionView sanitize helper bypass with noscript,Medium,https://hackerone.com/reports/2931691
+ActionView sanitize helper bypass with style,Medium,https://hackerone.com/reports/2931639
+#2931639   ActionView sanitize helper bypass with math-related tags,Medium,https://hackerone.com/reports/2931710
+Action Text XSS (Rails 7.1.x),Medium,https://hackerone.com/reports/2389565
+XSS vulnerability found in javascript code of https://███.mil,Medium,https://hackerone.com/reports/2888784
+XSS found in https://www.████████.mil,Medium,https://hackerone.com/reports/2853410
+Stored XSS via SMTP Error Message,Low,https://hackerone.com/reports/2956266
+POST based Cross-Site Scripting on IBM research endpoint,Medium,https://hackerone.com/reports/2899380
+[oem.acronis.com] Reflected Cross Site Scripting ,Medium,https://hackerone.com/reports/2038943
+DOM Based Reflected Cross Site Scripting,High,https://hackerone.com/reports/2321874
+[ CVE-2018-1000129 ] RXSS At `https://███████` via the URI,Medium,https://hackerone.com/reports/2778412
+XSS Reflected,Medium,https://hackerone.com/reports/2741110
+RXSS on ████ via configUrl parameter,Low,https://hackerone.com/reports/2684274
+Reflected HTML Injection via contact (faq) search parameter on ██████████,Medium,https://hackerone.com/reports/2587101
+Reflected HTML Injection via contact (faq) search parameter on ███]=,Medium,https://hackerone.com/reports/2578985
+RXSS on ████ via q parameter,Low,https://hackerone.com/reports/2166843
+Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/,Low,https://hackerone.com/reports/1891926
+RXSS in ███ via S parameter  ,Medium,https://hackerone.com/reports/2307913
+Reflected XSS on formaction parameter,Medium,https://hackerone.com/reports/2089895
+ Potential XSS Vulnerability in Acronis Login Callback URL,High,https://hackerone.com/reports/2611305
+Potential XSS in redirect_url Parameter,Medium,https://hackerone.com/reports/2653342
+Stored XSS on trix editor version 2.1.1,High,https://hackerone.com/reports/2521419
+Blind XSS on admin.acronis.com via delete account form on account.acronis.com,High,https://hackerone.com/reports/666040
+Reflected - XSS,High,https://hackerone.com/reports/1779447
+Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=<VULNERABLE>,Critical,https://hackerone.com/reports/2039384
+Stored-XSS-ads.tiktok.com,Low,https://hackerone.com/reports/2306491
+"XSS when using `translate` in Action Controller (Rails 7.0, 7.1)",Low,https://hackerone.com/reports/2303609
+Possible XSS Vulnerability in Action Controller,Low,https://hackerone.com/reports/2520694
+DOM XSS in tiktok.com/login via the redirect_url parameter,High,https://hackerone.com/reports/2583874
+"Stored Xss On ""https://www.question.com/""",High,https://hackerone.com/reports/1901706
+cross site scripting reflected ,Medium,https://hackerone.com/reports/1496897
+Stored XSS in reclamos,High,https://hackerone.com/reports/1675516
+CVE-2024-41937: Apache Airflow: Stored XSS Vulnerability on provider link,Low,https://hackerone.com/reports/2677187
+"Reflected cross site scripting (XSS) attacks Reflected XSS attacks, ",Medium,https://hackerone.com/reports/1799197
+XSS found for https://█████████,Medium,https://hackerone.com/reports/2670521
+XSS on ███████,Medium,https://hackerone.com/reports/2615670
+MetaMask Browser (on Android) does not enforce Content-Security-Policy header,Medium,https://hackerone.com/reports/1941767
+Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.html,Low,https://hackerone.com/reports/1145712
+HTML injection in swagger UI,Low,https://hackerone.com/reports/2534300
+XSS in https://promo.acronis.com/,Low,https://hackerone.com/reports/982442
+CSRF and XSS on www.acronis.com,Low,https://hackerone.com/reports/961787
+Cross Site Scripting (Reflected) on https://www.acronis.cz/dotaznik/roadshow-2020/,Low,https://hackerone.com/reports/1081747
+Cross-site Scripting (XSS) - Reflected on https://api.mtn.sd/carbon/admin/login.jsp via `msgId` parameter -  CVE-2020-17453,Medium,https://hackerone.com/reports/1158823
+Cross-site Scripting (XSS) - Reflected on http://callertunez.mtn.com.gh/wap/noauth/sharedetail.ftl via `callback` parameter ,Medium,https://hackerone.com/reports/1147176
+Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ips.mtn.co.ug:8080 via Nginx-module,Medium,https://hackerone.com/reports/1159362
+Reflected Cross Site Scripting Cisco ASA on  myvpn.mtncameroon.net CVE-2020-3580,Medium,https://hackerone.com/reports/1247833
+Cross-site Scripting (XSS) - Reflected,Medium,https://hackerone.com/reports/1211148
+Cross Site Scripting,Medium,https://hackerone.com/reports/2587844
+Blind Stored XSS on the internal host - █████████████,High,https://hackerone.com/reports/923912
+XSS via /api/v1/chat.postMessage ,Critical,https://hackerone.com/reports/219957
+XSS in various MessageTypes,High,https://hackerone.com/reports/1379400
+Open Akamai ARL XSS on http://master-config-████████,Medium,https://hackerone.com/reports/1315907
+Open Akamai ARL XSS on http://media.████████,Medium,https://hackerone.com/reports/1315898
+Self XSS,Medium,https://hackerone.com/reports/2521186
+XSS in IBM InfoCenter,Medium,https://hackerone.com/reports/2343548
+Multiple XSS and open HTTP redirection,High,https://hackerone.com/reports/2372332
+XSS on LINE CAREERS,Low,https://hackerone.com/reports/2403554
+Reflected XSS of media.indrive.com,Medium,https://hackerone.com/reports/2503113
+[CVE-2024-32464] ActionText ContentAttachment’s can Contain Unsanitized HTML,Medium,https://hackerone.com/reports/2542806
+Reflected xss on ████████ ,Medium,https://hackerone.com/reports/2389897
+"[Meetup][World ID][OIDC] Insufficient Filtering of ""state"" Parameter in Response Mode form_post leads to XSS and ATO",Critical,https://hackerone.com/reports/2515808
+[HTAF4-213] [Pre-submission] XSS via arbitrary cookie name at the https://www2.██████/nssi/core/dot_stu_reg/Registration.aspx,Medium,https://hackerone.com/reports/728001
+"Stored XSS filter bypass on discussion forum. ""URL"" tag. ",Medium,https://hackerone.com/reports/1096061
+Stored XSS filter bypass on discussion forum. ,Low,https://hackerone.com/reports/1096058
+Stored-XSS injected in Wiki page via Banzai pipeline,High,https://hackerone.com/reports/2257080
+Lynxview JS interfaces Takeover via deeplink traversal,High,https://hackerone.com/reports/2417516
+XSS in Aspera documentation website,Medium,https://hackerone.com/reports/2308491
+Reflected XSS via Keycloak on ███ [CVE-2021-20323],Medium,https://hackerone.com/reports/2221104
+reflected xss [CVE-2020-3580],Medium,https://hackerone.com/reports/2479161
+Reflected Cross-site Scripting via search query on ██████,Medium,https://hackerone.com/reports/2434904
+Reflected XSS on error message on Login Page,Medium,https://hackerone.com/reports/2417864
+Reflected XSS via Moodle on ███ [CVE-2022-35653],Medium,https://hackerone.com/reports/2444032
+Adobe Experience Manager 'Childlist selector' - Cross-Site Scripting on  cbconnection.adobe.com,Low,https://hackerone.com/reports/1842801
+RXSS in hidden parameter,Medium,https://hackerone.com/reports/2090964
+Adobe Experience Manager 'Childlist selector' - Cross-Site Scripting on cbconnection-stage.adobe.com ,Low,https://hackerone.com/reports/1842800
+Stored XSS in messages,Medium,https://hackerone.com/reports/1669764

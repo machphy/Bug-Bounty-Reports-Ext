@@ -1,0 +1,101 @@
+Title,Severity,URL
+Unauthorized Access to Private Video Description via Translation API for Private Accounts,Low,https://hackerone.com/reports/2921830
+Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure,Medium,https://hackerone.com/reports/2867022
+IDOR on in-app hardcoded zombie endpoint  ,Medium,https://hackerone.com/reports/3085742
+Ability to increase any customer offered fare (BAC),Medium,https://hackerone.com/reports/2861888
+Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure,High,https://hackerone.com/reports/2374730
+Lack of Feedback Validation Permits Arbitrary Driver Ratings,Medium,https://hackerone.com/reports/2894018
+IDOR Vulnerability at AddTagToAssets operation name,Medium,https://hackerone.com/reports/2633771
+IDOR: Account Deletion via Session Misbinding – Attacker Can Delete Victim Account,High,https://hackerone.com/reports/3154983
+Information disclosure on IBM training service endpoint,,https://hackerone.com/reports/3051155
+Sale cancellations from other sellers without restrictions,Critical,https://hackerone.com/reports/2495989
+Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation,High,https://hackerone.com/reports/2968039
+IDOR on ads.tiktok.com Allows Unauthorized Product Addition,Low,https://hackerone.com/reports/2848610
+IDOR Vulnerability Allowing Unauthorized Profile Picture Change,Medium,https://hackerone.com/reports/2962056
+Insecure Direct Object Reference (IDOR) Vulnerability in Autodesk User Profile,Medium,https://hackerone.com/reports/2965357
+Insecure direct Object Reference(Horizontal Escalation),Medium,https://hackerone.com/reports/2322663
+Unauthorized Access to TikTok Account [Private Videos] via API Endpoint,Medium,https://hackerone.com/reports/2868084
+█████████ when adding branches to your account,Critical,https://hackerone.com/reports/2756402
+Upload profile photo and  Pets addition - IDOR,High,https://hackerone.com/reports/2393021
+Share information of Tables app is not limited to affected users ,Low,https://hackerone.com/reports/2705507
+fs.fchown/fchmod bypasses permission model,Low,https://hackerone.com/reports/2590608
+IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID,Low,https://hackerone.com/reports/2028450
+IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ,Critical,https://hackerone.com/reports/1773609
+IDOR Exposes All Machine Learning Models,Medium,https://hackerone.com/reports/2528293
+IDOR leads to PII Leak,Medium,https://hackerone.com/reports/2586584
+IDOR  leads to view other user Biographical details (Possible PII LEAK),Medium,https://hackerone.com/reports/2586641
+IDOR : Modify other users demographic details,Medium,https://hackerone.com/reports/2586662
+Email Takeover leads to permanent account deletion,High,https://hackerone.com/reports/2587953
+Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/),High,https://hackerone.com/reports/685338
+IDOR may allow access to non-public photos,Medium,https://hackerone.com/reports/1737943
+IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS],High,https://hackerone.com/reports/1626508
+[IDOR] Improper Access Control on Embedded Submission Form,Low,https://hackerone.com/reports/2483666
+Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint,Critical,https://hackerone.com/reports/2487889
+"IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql  `FetchMemberships` operation",Medium,https://hackerone.com/reports/2381816
+IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query,High,https://hackerone.com/reports/2122671
+Attachment disclosure via summary report ,Critical,https://hackerone.com/reports/2442008
+Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint. ,Critical,https://hackerone.com/reports/2456603
+Unauthorized Access to Offline Publication Cover Pages via SOURCE_DOCUMENT_ID,Medium,https://hackerone.com/reports/2357113
+An attacker can submit arbitrary projects to their service accounts and obtain full information on projects of other users.,High,https://hackerone.com/reports/2291999
+IDOR vulnerability reveals additional information,Critical,https://hackerone.com/reports/1770858
+IDOR on Delete Email address features,High,https://hackerone.com/reports/2382484
+IDOR allows information disclosure,High,https://hackerone.com/reports/1816900
+IDOR in one subdomain of █████████ -> change information of pets without athorization!,Medium,https://hackerone.com/reports/2073950
+IDOR on GraphQL queries BillingDocumentDownload and BillDetails,Medium,https://hackerone.com/reports/2207248
+IDOR to account takeover on POST to █████████ by changing member_id parameter,Critical,https://hackerone.com/reports/2132183
+PII Disclosure At `theperfumeshop.com/register/forOrder`,Critical,https://hackerone.com/reports/1618100
+View Repo and Title of Any Private Check Run,Medium,https://hackerone.com/reports/2210179
+IDOR to delete profile images in https:███████,Medium,https://hackerone.com/reports/2213900
+IDOR vulnerability on profile picture changing mechanism which discloses other user's profile picture.,Medium,https://hackerone.com/reports/2024284
+Enabling Birthday Contact to any user,Medium,https://hackerone.com/reports/2112973
+Unauthorized Access to Deleted Interviews on Glassdoor Platform,Low,https://hackerone.com/reports/2212555
+IDOR vulnerability in unreleased HackerOne Copilot feature,Medium,https://hackerone.com/reports/2218334
+[ADMIN FEATURE ACCESS] Knowing The Competitors analytics of any company  ,Medium,https://hackerone.com/reports/1538177
+"Attackers can create unlimited jobs by paying a low price `( Rp. 10,000 )` from the original lowest price of around **Rp 93,151**",Medium,https://hackerone.com/reports/1808149
+IDOR - send a message on behalf of other user ,Medium,https://hackerone.com/reports/1888545
+Improper santization of edit in list feature at twitter leads to delete any twitter user's list cover photo.,Medium,https://hackerone.com/reports/1437004
+IDOR in upload videos of a Channel on https://video.ibm.com,Critical,https://hackerone.com/reports/2085185
+"Attackers can use TRIAL Premium only by paying **IDR 10,000.00** from the original price of `IDR462,400.00` per month",High,https://hackerone.com/reports/1808719
+IDOR allows an attacker to delete anyone's featured photo.,Medium,https://hackerone.com/reports/1608735
+Insecure Direct Object Reference allows Crew Invite deletion,Medium,https://hackerone.com/reports/1947924
+An IDOR that can lead to enumeration of a user and disclosure of email and phone number within cashier,High,https://hackerone.com/reports/1966006
+███████  ' can delete any animal from other account  '  at ██████████ ,Medium,https://hackerone.com/reports/1947376
+████ ' can change any account email and cannot retrieve his account and access it ' at ███,High,https://hackerone.com/reports/1952771
+████ ' can add animal to other account ' at ██████,Medium,https://hackerone.com/reports/1965640
+IDOR in family pairing API,Low,https://hackerone.com/reports/1586950
+"Attacker is able to create,Edit & delete notes and leak the title of a victim's private personal snippet",Medium,https://hackerone.com/reports/1751258
+Attacker can create malicious child epics linked to a victim's epic in an unrelated group,Medium,https://hackerone.com/reports/1892200
+Anyone can view the results of linkedin skill test -if failed to earn a badge or if the badge earned is kept private: both cases results can be viewed,Medium,https://hackerone.com/reports/1837309
+[ Continuation Report from #1814842 ] Can create articles using other users' NewsLetters,Medium,https://hackerone.com/reports/1818969
+Attackers do not need to Pay for a Subscription to get the `Discussion Group URL` in `Paid Learning`,Medium,https://hackerone.com/reports/1813450
+Insecure Direct Object Reference (IDOR) - Delete Campaigns  ,High,https://hackerone.com/reports/1969141
+Ability to read any emails through IDOR on Nextcloud Mail,Medium,https://hackerone.com/reports/1784681
+IDOR in TalentMAP API can be abused to enumerate personal information of all the users,High,https://hackerone.com/reports/1848176
+Session mismatch leading to potential account takeover (local access required),Medium,https://hackerone.com/reports/1825227
+Unauthorized User can View Subscribers of Other Users Newsletters,High,https://hackerone.com/reports/1716300
+Delete anyone's content spotlight remotely.,High,https://hackerone.com/reports/1819832
+IDOR for changing privacy settings on any memories,High,https://hackerone.com/reports/1733627
+Possibility to delete files attached to deck cards of other users,Low,https://hackerone.com/reports/1755555
+Unauthorized access to resumes stored on LinkedIn,High,https://hackerone.com/reports/1777095
+IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account ,Medium,https://hackerone.com/reports/1644436
+"Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure",Critical,https://hackerone.com/reports/1448550
+Unprotected Direct Object Reference,Critical,https://hackerone.com/reports/1536936
+Campaign Account Balance and History Disclosed in API Response,Medium,https://hackerone.com/reports/1587374
+IDOR on ███████ [HtUS],Medium,https://hackerone.com/reports/1627974
+"Business Suite ""Get Leads"" Resulting in Revealing User Email & Phone",High,https://hackerone.com/reports/1744194
+"IDOR in API applications (able to see any API token, leads to account takeover)",Critical,https://hackerone.com/reports/1695454
+A malicious admin can be able to permanently disable a Owner(Admin) to access his account,Medium,https://hackerone.com/reports/1718574
+IDOR leaking PII data via VendorId parameter,Medium,https://hackerone.com/reports/1690044
+Email Address Exposure via Gratipay Migration Tool,Medium,https://hackerone.com/reports/1727044
+"Reddit talk promotion offers don't expire, allowing users to accept them after being demoted",Medium,https://hackerone.com/reports/1656380
+IDOR allows an attacker to modify the links of any user,High,https://hackerone.com/reports/1661113
+Add products to any livestream.,Medium,https://hackerone.com/reports/1654657
+Create product discounts of any shop,Medium,https://hackerone.com/reports/1571578
+IDOR on Tagged People,Medium,https://hackerone.com/reports/1555376
+IDOR Lead  To VIEW & DELETE & Create api_key [HtUS],Medium,https://hackerone.com/reports/1628012
+Modifying Sprunk vs eCola crew data,Low,https://hackerone.com/reports/1680818
+IDOR Leads To Account Takeover Without User Interaction,Critical,https://hackerone.com/reports/1272478
+IDOR on TikTok Ads Endpoint,Medium,https://hackerone.com/reports/1527906
+IDOR on TikTok Seller,Low,https://hackerone.com/reports/1509057
+Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability,High,https://hackerone.com/reports/1658418
+Sensei LMS IDOR to send message,Low,https://hackerone.com/reports/1592596
